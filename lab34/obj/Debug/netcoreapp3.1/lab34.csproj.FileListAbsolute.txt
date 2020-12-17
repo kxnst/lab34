@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\lab34\lab34\bin\Debug\netcoreapp3.1\lab34.exe
+C:\Users\hp\source\repos\lab34\lab34\bin\Debug\netcoreapp3.1\lab34.deps.json
+C:\Users\hp\source\repos\lab34\lab34\bin\Debug\netcoreapp3.1\lab34.runtimeconfig.json
+C:\Users\hp\source\repos\lab34\lab34\bin\Debug\netcoreapp3.1\lab34.runtimeconfig.dev.json
+C:\Users\hp\source\repos\lab34\lab34\bin\Debug\netcoreapp3.1\lab34.dll
+C:\Users\hp\source\repos\lab34\lab34\bin\Debug\netcoreapp3.1\lab34.pdb
+C:\Users\hp\source\repos\lab34\lab34\obj\Debug\netcoreapp3.1\lab34.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\lab34\lab34\obj\Debug\netcoreapp3.1\lab34.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\lab34\lab34\obj\Debug\netcoreapp3.1\lab34.AssemblyInfo.cs
+C:\Users\hp\source\repos\lab34\lab34\obj\Debug\netcoreapp3.1\lab34.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\lab34\lab34\obj\Debug\netcoreapp3.1\lab34.dll
+C:\Users\hp\source\repos\lab34\lab34\obj\Debug\netcoreapp3.1\lab34.pdb
+C:\Users\hp\source\repos\lab34\lab34\obj\Debug\netcoreapp3.1\lab34.genruntimeconfig.cache
